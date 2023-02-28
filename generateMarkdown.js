@@ -53,44 +53,44 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title} ${renderLicenseBadge(data.license)}
   
-    ## Description
+## Description
   
-    ${data.description}
+${data.description}
   
-    ## Table of Contents
+## Table of Contents
   
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
   
-    ## Installation
+## Installation
   
-    ${data.installation}
+${data.installation}
   
-    ## Usage
+## Usage
   
-    ${data.usage}
+${data.usage}
   
-    ## Contributing
+## Contributing
   
-    ${data.contributing}
+${data.contributing}
   
-    ## Tests
+## Tests
   
-    ${data.tests}
+${data.tests}
   
-    ## License
+## License
   
-    ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
   
-    ## Questions
+## Questions
   
-    If you have any questions, contact me directly at [${data.email}](mailto:${
+If you have any questions, contact me directly at [${data.email}](mailto:${
     data.email
-  }). You can find more of my work at [${data.github}](https://github.com/${
+  }). You can find more of my work at my [Github](https://github.com/${
     data.github
   }/).
     `;
