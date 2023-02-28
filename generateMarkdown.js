@@ -76,7 +76,7 @@ ${data.usage}
   
 ## Contributing
   
-${data.contributing}
+${data.contribution}
   
 ## Tests
   
