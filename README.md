@@ -8,7 +8,6 @@ A command-line application that allows users to generate a professional README q
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
@@ -20,7 +19,10 @@ Requires inquirer. Use code `npm i inquirer@8.2.4` to install.
 
 To use the application, The application is run through the terminal. You can invoke the application using the command `node index.js`.
 
-## Screenshot
+Screenshot of the application at work:
+![a screenshot of a terminal running the application](../readme-generator/screenshot.png)
+
+Video of the application at work:
 
 ## License
 
