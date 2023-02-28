@@ -6,20 +6,21 @@ A command-line application that allows users to generate a professional README q
 
 ## Table of Contents
 
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
-Requires node and inquirer. Use code `npm i inquirer@8.2.4` to install.
+Requires inquirer. Use code `npm i inquirer@8.2.4` to install.
 
 ## Usage
 
-The application is run through the terminal. You can invoke the application using the command `node index.js`.
+To use the application, The application is run through the terminal. You can invoke the application using the command `node index.js`.
+
+## Screenshot
 
 ## License
 
