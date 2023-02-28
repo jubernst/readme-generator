@@ -20,9 +20,10 @@ Requires inquirer. Use code `npm i inquirer@8.2.4` to install.
 To use the application, The application is run through the terminal. You can invoke the application using the command `node index.js`.
 
 Screenshot of the application at work:
-![a screenshot of a terminal running the application](../readme-generator/screenshot.png)
+![a screenshot of a terminal running the application](./readme-generator/screenshot.png)
 
 Video of the application at work:
+![a video of the application being run](./video.mp4)
 
 ## License
 
