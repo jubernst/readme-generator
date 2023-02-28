@@ -23,7 +23,7 @@ Screenshot of the application at work:
 ![a screenshot of a terminal running the application](./readme-generator/screenshot.png)
 
 Video of the application at work:
-![a video of the application being run](./video.mp4)
+![a video of the application being run](https://drive.google.com/file/d/13r7PYigWnw43NYnUaH7CjjFGeAB4k5Km/view?usp=share_link)
 
 ## License
 
